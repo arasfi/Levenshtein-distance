@@ -1,0 +1,28 @@
+{
+  "name": "levenshtein-distance",
+  "version": "1.0.0",
+  "description": "Calculate distance between 2 words",
+  "main": "levenshtein.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arasfi/Levenshtein-distance.git"
+  },
+  "keywords": [
+    "levenshtein",
+    "words",
+    "distance"
+  ],
+  "author": "Abdelhakim RASFI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arasfi/Levenshtein-distance/issues"
+  },
+  "homepage": "https://github.com/arasfi/Levenshtein-distance#readme",
+  "dependencies": {
+    "ava": "^5.0.1"
+  },
+  "type": "module"
+}
